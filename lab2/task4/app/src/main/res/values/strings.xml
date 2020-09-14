@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">task4</string>
+    <string name="button_placeholder">-</string>
+    <string name="tic">X</string>
+    <string name="tac">O</string>
+    <string name="tic_won">Tic won!</string>
+    <string name="tac_won">Tac won!</string>
+    <string name="restart_button_caption">Restart</string>
 </resources>
