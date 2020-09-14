@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">task3</string>
+    <string name="input_field_placeholder">Enter number...</string>
+    <string name="first_field_caption">First number:</string>
+    <string name="second_field_caption">Second number:</string>
+    <string name="result_caption">Result:</string>
+    <string name="calculate_button_caption">Calculate</string>
+    <string name="input_error">Input fields cannot be empty</string>
+
+    <string-array name="operators">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
