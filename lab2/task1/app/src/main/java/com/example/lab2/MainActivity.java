@@ -126,8 +126,7 @@ public class MainActivity extends AppCompatActivity {
 
         button_minus.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
-                updateScreenStringWithChar('-');
+            public void onClick(View v) {updateScreenStringWithChar('-');
             }
         });
 
