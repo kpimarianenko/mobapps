@@ -52,5 +52,3 @@ public class CountryFragment extends Fragment {
         return view;
     }
 }
-
-

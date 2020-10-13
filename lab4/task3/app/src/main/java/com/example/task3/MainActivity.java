@@ -2,12 +2,7 @@ package com.example.task3;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
-
-import android.app.FragmentTransaction;
-import android.app.FragmentManager;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 

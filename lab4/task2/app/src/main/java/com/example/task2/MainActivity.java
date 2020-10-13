@@ -34,23 +34,12 @@ public class MainActivity extends AppCompatActivity {
         return new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                System.out.println(1);
                 FragmentManager fm = getFragmentManager();
-                System.out.println(2);
                 FragmentTransaction ft = fm.beginTransaction();
-                System.out.println(3);
                 CountryFragment fragment = CountryFragment.newInstance(country);
-                System.out.println(4);
                 ft.replace(R.id.container, fragment);
-                System.out.println(5);
                 ft.addToBackStack(null);
-                System.out.println(6);
                 ft.commit();
-                System.out.println(7);
-//                Intent intent = new Intent();
-//                intent.setClass(MainActivity.this, CountryFragment.class);
-//                intent.putExtra(Country.INTENT_KEY, country);
-//                startActivity(intent);
             }
         };
     }
