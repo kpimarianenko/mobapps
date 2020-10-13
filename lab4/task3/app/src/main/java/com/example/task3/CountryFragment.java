@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import android.app.Fragment;
+import androidx.fragment.app.Fragment;
 
 import com.bumptech.glide.Glide;
 
