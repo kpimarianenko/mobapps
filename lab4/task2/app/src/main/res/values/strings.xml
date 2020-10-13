@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">task2</string>
+    <string name="button_france">France</string>
+    <string name="button_spain">Spain</string>
+    <string name="button_greece">Greece</string>
+    <string name="country_name_placeholder">Name</string>
+    <string name="country_description_placeholder">Description</string>
+    <string name="country_photo_description_placeholder">Photo</string>
+</resources>
