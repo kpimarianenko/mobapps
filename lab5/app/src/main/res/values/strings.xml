@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="original_photo_placeholder">original</string>
+    <string name="modefied_photo_placeholder">modified</string>
+    <string name="red_photo_placeholder">red</string>
+    <string name="green_photo_placeholder">green</string>
+    <string name="blue_photo_placeholder">blue</string>
+    <string name="original_photo_caption">Original</string>
+    <string name="red_photo_caption">Red</string>
+    <string name="green_photo_caption">Green</string>
+    <string name="blue_photo_caption">Blue</string>
+    <string name="alpha_placeholder">0.00</string>
+    <string name="decrease_alpha">&lt;&lt;</string>
+    <string name="increase_alpha">&gt;&gt;</string>
+    <string name="task1_button">Inverse image</string>
+    <string name="task2_button">Apply a color filter</string>
+    <string name="task3_button">Split by colors</string>
+    <string name="task4_button">Image overlay</string>
+    <string name="task5_button">task5</string>
+    <string name="task6_button">task6</string>
+</resources>
