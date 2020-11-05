@@ -16,6 +16,11 @@
     <string name="task2_button">Apply a color filter</string>
     <string name="task3_button">Split by colors</string>
     <string name="task4_button">Image overlay</string>
-    <string name="task5_button">task5</string>
-    <string name="task6_button">task6</string>
+    <string name="task5_button">Filters</string>
+    <string name="task5_original_button">Original</string>
+    <string name="task5_blur_button">Blur</string>
+    <string name="task5_sharpness_button">Sharpness</string>
+    <string name="task5_median_button">Median</string>
+    <string name="task5_growingUp_button">Growing up</string>
+    <string name="task5_sobel_button">Sobel</string>
 </resources>

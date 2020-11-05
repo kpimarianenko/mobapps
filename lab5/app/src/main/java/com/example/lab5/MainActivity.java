@@ -11,7 +11,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button inverseImage, applyAColorFilter, splitByColors, imageOverlay, task4, task5, task6;
+    Button inverseImage, applyAColorFilter, splitByColors, imageOverlay, filters, task5, task6;
     public static final int maxColorIntensity = 255;
     static Bitmap originalMap;
     public static int mapWidth, mapHeight;
@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         applyAColorFilter.setOnClickListener(getListener(ApplyAColorFilterActivity.class));
         splitByColors.setOnClickListener(getListener(SplitByColorsActivity.class));
         imageOverlay.setOnClickListener(getListener(ImageOverlayActivity.class));
+        filters.setOnClickListener(getListener(FiltersActivity.class));
     }
 
     private void initBitmap() {
@@ -40,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
         applyAColorFilter = findViewById(R.id.apply_a_color_filter);
         splitByColors = findViewById(R.id.split_by_colors);
         imageOverlay = findViewById(R.id.image_overlay);
+        filters = findViewById(R.id.filters);
     }
 
     private View.OnClickListener getListener(final Class<?> cl) {

@@ -69,21 +69,11 @@
             android:layout_weight="1" />
 
         <Button
-            android:id="@+id/button5"
+            android:id="@+id/filters"
             style="@style/main_activity_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/task5_button" />
-
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="1" />
-
-        <Button
-            android:id="@+id/button6"
-            style="@style/main_activity_button"
-            android:text="@string/task6_button" />
 
         <Space
             android:layout_width="match_parent"
