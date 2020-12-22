@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab7</string>
+    <string name="task1_button">Web view demo</string>
+    <string name="task2_button">Web view with your URL</string>
+    <string name="search_button">Search</string>
+    <string name="prev_button">&lt;&lt;</string>
+    <string name="next_button">&gt;&gt;</string>
+    <string name="url_input_placeholder">Enter URL…</string>
+</resources>

@@ -5,9 +5,4 @@
     <string name="task3_button">Synchronous rectangles</string>
     <string name="task4_button">Circling square</string>
     <string name="task5_button">Cellular automata</string>
-    <string name="task6_button">Snake</string>
-    <string name="snake_up">Up</string>
-    <string name="snake_down">Down</string>
-    <string name="snake_left">Left</string>
-    <string name="snake_right">Right</string>
 </resources>
